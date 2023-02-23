@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <title>mSWAN - Mood Swing Analyser</title>
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+  
+</head>
+
+
+
+
+<body>
+
+
+  <div class="top-container">
+
+    <h1>mSWAN</h1>
+    <p>An easy way to know if you need help.</p>
+
+  </div>
+
+
+  <div class="middle-container">
+
+    <div class="profile">
+      <h2>Hello & Welcome to mSWAN</h2>
+      <p>No matter how hopeless you feel , you can get better.</p>
+      <img class="img0" src = "{{ url_for('static',filename='styles/img0.webp') }}" alt="">
+    </div>
+
+    <hr>
+
+    <div class="features">
+
+      <div class="feature-row">
+        <img class="img1" src = "{{ url_for('static',filename='styles/img1.webp') }}" alt="">
+        <h3>How do you feel ?</h3>
+        <p>We help you take the first step to feeling better</p>
+        <p>and overcoming the problem .</p>
+        <p>Why dont we start by answering some simple questions ?</p>
+        <br>
+    
+
+        <a class = "btn" href="{{url_for('btn_yes')}}">  yes </a> 
+        <a class = "btn" href="{{url_for('btn_no')}}">  no </a> 
+
+  
+
+        <!-- <div class="container">          
+          <form method="post">
+              <input class = "btn" type="submit" value="yes" href = "form.html">
+          </form>
+        </div> -->
+
+      </div>
+
+      <div class="feature-row">
+        <img class="img2" src = "{{ url_for('static',filename='styles/img2.webp') }}" alt="" >
+        <h3>What is Depression and</h3>
+        <h3>How does Sentiment Analysis work ?</h3>
+        <p>Depression is a mood disorder that causes a persistent</p>
+        <p>feeling of sadness and loss of interest.</p>
+        <p>We use an internal model to detect the polarity of the sentiments</p>
+        <p>automatically and classify them into clusters based on </p>
+        <p>K-means algorithm , hence eradicating the need for normalization</p>
+        <p>the emotions of the writer of a particular text....<a href="{{url_for('read_more')}}">Read more</a></p>
+      </div>
+
+    </div>
+
+    <div class="space">
+
+
+    </div>
+
+    <hr>
+
+    <div class="contact">
+      <h2>Get In Touch</h2>
+      <p class="contact-padding">Click on the links below to get in contact with the developers.</p>
+    </div>
+
+
+  </div>
+
+
+
+  <div class="bottom-container">
+
+    <a class="footer-link" href="#">Chirag</a>
+    <a class="footer-link" href="#">Akash</a>
+    <a class="footer-link" href="#">Nitin</a>
+    <a class="footer-link" href="#">Parvez</a>
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,178 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 6rem;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Noto Serif', serif;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+  margin: 0;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 15px;
+  width: 10%;
+  color: #395B64;
+}
+
+.top-container {
+  color: #FCF8E8;
+  background-color: #395B64;
+  padding: 300px;
+}
+
+.middle-container {
+  color: #231955;
+  background-color: #A5C9CA;
+  padding: 50px;
+}
+
+.profile {
+  padding: 100px 0 200px;
+}
+
+.feature-row {
+  padding-top: 150px;
+  margin: 100px 200px 100px 200px;
+  text-align: left;
+}
+
+.img0 {
+  height: 300px;
+  width: 300px;
+}
+
+.img1 {
+  margin-right: 50px;
+  height: 300px;
+  width: 250px;
+  float: left;
+}
+
+.img2 {
+  height: 250px;
+  width: 250px;
+  float: right;
+}
+
+.contact-padding {
+  padding-top: 50px;
+}
+
+.contact {
+  padding-top: 200px;
+  margin: 100px 0;
+}
+
+.space{
+  padding-top: 100px ;
+
+}
+
+.bottom-container {
+  background-color: #E7F6F2;
+  padding: 50px;
+}
+
+.footer-link {
+  margin: 70px;
+  color: #395B64;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: black;
+}
+
+.btn {
+  margin-left: 50px;
+  margin-right: 100px;
+  background: #3baaf5;
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfce2;
+  text-decoration: none;
+}
+
+.container-1 {
+  line-height: 2;
+  padding: 100px;
+  text-align: left;
+}
+
+.container-2 {
+  line-height: 2;
+  padding: 100px;
+  text-align: left;
+}
+
+.container-3 {
+  line-height: 2;
+  padding: 100px;
+  text-align: left;
+}
+
+.form-container {
+  color: #231955;
+  background-color: #A5C9CA;
+  padding: 310px 50px;
+}
+
+#textbox{
+    height:50px;
+    width:400px;
+    font-size:14pt;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#submit{
+  margin-left: 50px;
+  margin-right: 100px;
+  background: #3baaf5;
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+#submit:hover {
+  background: #3cfce2;
+  text-decoration: none;
+}
