@@ -1,0 +1,27 @@
+100+nlp.py*
+a.exe*
+deep_learning copy.ipynb*
+deep_learning.ipynb*
+file1.txt*
+file2.txt*
+file3.txt*
+file4.txt*
+file5.txt*
+groceries.txt*
+linuxCommands.pdf*
+model/
+nlp.py*
+progit.pdf*
+project.py*
+project_deep_learning.py*
+rule_based.ipynb*
+static/
+templates/
+test.py*
+test.txt*
+test1.txt
+testfile.cpp*
+testfile.txt*
+testfile5.txt*
+twitter_training.csv*
+twitter_validation.csv*
