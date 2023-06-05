@@ -1,0 +1,60 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+	
+cout << " help" << endl;100+nlp.py
+a.exe
+deep_learning copy.ipynb
+deep_learning.ipynb
+file1.txt
+file2.txt
+file3.txt
+file4.txt
+file5.txt
+linuxCommands.pdf
+model
+nlp.py
+progit.pdf
+project.py
+project_deep_learning.py
+rule_based.ipynb
+static
+templates
+test.py
+test.txt
+testfile.cpp
+testfile.txt
+testfile5.txt
+twitter_training.csv
+twitter_validation.csv
+total 30066
+-rwx------+ 1 akash akash   502363 Jun  2 16:00 linuxCommands.pdf
+drwx------+ 1 akash akash        0 Jun  5 06:16 model
+-rwx------+ 1 akash akash    68026 Jun  5 06:16 deep_learning copy.ipynb
+drwx------+ 1 akash akash        0 Jun  5 06:16 static
+-rwx------+ 1 akash akash   572934 Jun  5 06:16 rule_based.ipynb
+-rwx------+ 1 akash akash     1509 Jun  5 06:16 project_deep_learning.py
+-rwx------+ 1 akash akash     2194 Jun  5 06:16 project.py
+drwx------+ 1 akash akash        0 Jun  5 06:16 templates
+-rwx------+ 1 akash akash   164351 Jun  5 06:16 twitter_validation.csv
+-rwx------+ 1 akash akash 10325088 Jun  5 06:16 twitter_training.csv
+-rwx------+ 1 akash akash       27 Jun  5 12:59 test.py
+-rwx------+ 1 akash akash        0 Jun  5 13:16 100+nlp.py
+-rwx------+ 1 akash akash    71169 Jun  5 13:16 deep_learning.ipynb
+-rwx------+ 1 akash akash     6439 Jun  5 13:16 nlp.py
+-rwx------+ 1 akash akash 18915172 Jun  5 13:16 progit.pdf
+-rwx------+ 1 akash akash       25 Jun  5 13:16 test.txt
+-rwx------+ 1 akash akash      119 Jun  5 13:21 file5.txt
+-rwx------+ 1 akash akash      119 Jun  5 13:21 file4.txt
+-rwx------+ 1 akash akash      119 Jun  5 13:21 file3.txt
+-rwx------+ 1 akash akash       73 Jun  5 13:21 file2.txt
+-rwx------+ 1 akash akash       46 Jun  5 13:21 file1.txt
+-rwx------+ 1 akash akash       33 Jun  5 13:21 testfile5.txt
+-rwx------+ 1 akash akash       83 Jun  5 15:09 testfile.txt
+-rwx------+ 1 akash akash       83 Jun  5 15:09 testfile.cpp
+-rwx------+ 1 akash akash   124759 Jun  5 15:09 a.exe
+ help
+
+
+}
